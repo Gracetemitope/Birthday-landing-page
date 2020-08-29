@@ -283,6 +283,9 @@ body {
             font-size: 10px;
 
     }
+    .txt-type > .txt {
+        border-right: 0.2rem solid #ffffff;
+    }
 
     @media (max-width: 760px)  {
             .txt-contain h3 {
