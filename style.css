@@ -294,6 +294,7 @@ body {
             }
             .main-container {
                     height: 140rem;
+                    background: #000000;
             }
             .wishes {
                     flex-direction: column;
